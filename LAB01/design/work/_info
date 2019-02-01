@@ -1,0 +1,59 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\CA_Labs\Lab01\design
+vD_FF
+V09X<if:HdmG9AJoa7S_:O1
+r1
+!s85 0
+31
+IRi>akDEKOB2;P]^eQ8Z680
+w1548420624
+8D_FF.v
+FD_FF.v
+L0 1
+Z1 OE;L;6.5c;42
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@d_@f@f
+!s100 6cF`L5EzEBWP]Ncba`7^g3
+vripple_carry_counter
+ViJ]Q]zCK]hQHn4aF3e=SG3
+r1
+31
+IFNeHciMm_XIB?7iLVWIbI3
+w1548420443
+8ripple_carry_counter.v
+Fripple_carry_counter.v
+L0 1
+R1
+R2
+!s85 0
+!s100 7f<]PT[VNl>Zm?jQ0LfWS2
+vT_FF
+VI0hBGJMVeod?CcSBJmEeo0
+r1
+31
+I<WjTLIe@A6UbJhmEX0MHk3
+w1548420446
+8T_FF.v
+FT_FF.v
+L0 1
+R1
+R2
+n@t_@f@f
+!s85 0
+!s100 M>Zm49>aI>`KbAE[7i79Y1
+vtb
+VV@Xn<HnSRM[I5c1?BH]3a3
+r1
+31
+I;9?ahWL3VGb]Pb`O04NUg0
+w1548421623
+8tb.v
+Ftb.v
+L0 1
+R1
+R2
+!s85 0
+!s100 UKaGc<5I=XZMRN>oSh7H_0
